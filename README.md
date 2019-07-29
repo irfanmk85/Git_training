@@ -2,5 +2,5 @@
 
 ## Branching Model
 
-1. Master Branch
+1. Master Branch: Its Original file.
 2. Dev Branch
