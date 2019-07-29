@@ -2,5 +2,5 @@
 
 ## Branching Model
 
-1. Master Branch - No Direct chane is allowed
+1. Master Branch - No Direct change is allowed
 2. Dev Branch
